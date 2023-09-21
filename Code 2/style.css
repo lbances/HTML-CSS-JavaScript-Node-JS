@@ -1,0 +1,204 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+div#principal{
+    margin:auto;
+    margin-top: 3px;
+    width: auto;
+    height: 1020px;
+    background-color: rgb(224, 224, 224);
+}
+
+div#bordeSuperior{
+    width: auto;
+    height: 5px;
+    background-color: rgb(224, 224, 224);
+}
+
+div#titulo{
+    font-family: "Arial";
+    margin-top: 3px;
+    width: auto;
+    height: 45px;
+    background-color: white;
+    text-align: center;
+}
+
+div#btnVerMas{
+    font-family: "Arial";
+    margin-top: 3px;
+    float:right;
+    background-color: white;
+}
+
+div#contenedor1{
+    margin-top: 5px;
+    width: 900px;    
+    height: 470px;
+    float:left;
+    background-color: white;
+}
+
+div#contenedor2{
+    margin-top: 5px;
+    width: 390px;    
+    height: 470px;
+    float:right;
+    background-color: white;
+}
+
+div#firma2{
+    margin-top: 25px;
+    margin-left: -12px;
+}
+
+div#contenedor3{
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 430px;
+    height: 475px;
+    float:left;
+    background-color: white;
+}
+
+div#firma3{
+    margin-top: 25px;
+    margin-left: -12px;
+}
+
+div#contenedor4{
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 430px;
+    height: 475px;
+    float:left;
+    background-color: white;
+}
+
+div#contenedor4-1{
+    width: 430px;
+    height: 115px;
+}
+
+div#contenedor4-2{
+    width: 430px;
+    height: 115px;
+}
+
+div#contenedor4-3{
+    width: 430px;
+    height: 115px;
+}
+
+div#contenedor4-4{
+    width: 430px;
+    height: 115px;
+}
+
+div#firma4{
+    margin-top: 25px;
+    margin-left: -12px;
+}
+
+
+div#contenedor5{
+    margin-top: 5px;
+    width: 426px;
+    height: 475px;
+    float:left;
+    background-color: white;
+    
+}
+
+div#contenedor1-1{
+    margin-top: 5px;
+    margin-left: -19px;
+    position: relative;
+}
+
+div#contenedor2-1{
+    margin-top: 5px;
+    margin-left: -14px;
+}
+
+div#contenedor3-1{
+    margin-top: 5px;
+    margin-left: -15px;
+}
+
+div#contenedor5-1{
+    margin-top: 5px;
+    margin-left: -16px;
+    position: relative;
+}
+
+div#celda-text1{
+    margin-top: 10px;
+    margin-left: -20px;
+    width: 260px;
+    height: 75px;
+    float: left;
+}
+
+div#celda-img1{
+    margin-top: 10px;
+    width: 150px;
+    float: left;
+}
+
+div#celda-text2{
+    margin-top: 10px;
+    margin-left: -20px;
+    width: 260px;
+    height: 75px;
+    float: left;
+}
+
+div#celda-img2{
+    margin-top: 5px;
+    width: 150px;
+    float: left;
+}
+
+div#celda-text3{
+    margin-top: 5px;
+    margin-left: -20px;
+    width: 260px;
+    height: 75px;
+    float: left;
+}
+
+div#celda-img3{
+    margin-top: 5px;
+    width: 150px;
+    float: left;
+}
+
+div#celda-text4{
+    margin-top: 5px;
+    margin-left: -20px;
+    width: 260px;
+    height: 75px;
+    float: left;
+}
+
+div#celda-img4{
+    margin-top: 5px;
+    width: 150px;
+    float: left;
+}
+
+p#textoEncima{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+p#textoEncima2{
+    position: absolute;
+    top: 15%;
+    text-align: center;
+    left: 25%;
+}

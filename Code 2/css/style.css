@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+div#general{
+    margin:auto;
+    width: auto;
+    height: 1025px;
+    background-color: white;
+}
+
+div#noticia1{
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 320px;
+    height: 350px;
+    float:left;
+}
+
+div#noticia2{
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 320px;
+    height: 350px;
+    float:left;
+}
+
+div#noticia3{
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 320px;
+    height: 350px;
+    float:left;
+}
+
+div#noticia4{
+    margin-top: 3px;
+    margin-left: 3px;
+    width: 320px;
+    height: 350px;
+    float:left;
+}
